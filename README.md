@@ -67,6 +67,7 @@ Calculation of running total of sales.
 ![image](https://github.com/ReemaSheikh/Dax-Query/assets/171484655/ac1588b6-4da3-491a-89f3-47de470fb720)
 
 - Select/Add the running total in the table created. The running total will automatically be generated from the sales.
-![image](https://github.com/ReemaSheikh/Dax-Query/assets/171484655/2674a791-47b5-4bc1-baf0-8759550edef4)
+
+  ![image](https://github.com/ReemaSheikh/Dax-Query/assets/171484655/2674a791-47b5-4bc1-baf0-8759550edef4)
 
     The running total is generated.
